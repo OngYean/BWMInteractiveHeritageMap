@@ -1,14 +1,33 @@
 {
-  "name": "${PROJECT_NAME}",
+  "name": "BWMInteractiveHeritageMap",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
+  "browser": "dist/index.js",
   "scripts": {
-    "build": "tsc"
+    "dev": "vite",
+    "dev:debug": "vite --inspect-brk",
+    "dev:open": "vite --open",
+    "build": "tsc && vite build",
+    "build:prod": "NODE_ENV=production tsc && vite build",
+    "preview": "vite preview",
+    "preview:open": "vite preview --open",
+    "type-check": "tsc --noEmit",
+    "type-check:watch": "tsc --noEmit --watch"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@vercel/blob": "^2.0.0",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-pdf": "^10.3.0"
+  },
   "devDependencies": {
-    "typescript": "^5.5.3"
+    "@types/node": "^25.0.3",
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.2",
+    "typescript": "^5.5.3",
+    "vite": "^7.3.0"
   },
   "private": true
 }
