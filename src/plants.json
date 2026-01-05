@@ -1,0 +1,451 @@
+[
+  {
+    "name_MS": "Bayam Brazil",
+    "name_EN": "Brazilian Spinach",
+    "name": "Alternanthera sissoo",
+    "category": "PRODUCTION",
+    "pgStart": "6",
+    "pgEnd": "7"
+  },
+  {
+    "name_MS": "Bunga Kantan",
+    "name_EN": "Torch Ginger",
+    "name": "Etlingera elatior",
+    "category": "PRODUCTION",
+    "pgStart": "9",
+    "pgEnd": "10"
+  },
+  {
+    "name_MS": "Cekur",
+    "name_EN": "Sand Ginger",
+    "name": "Kaempferia galanga",
+    "category": "PRODUCTION",
+    "pgStart": "12",
+    "pgEnd": "13"
+  },
+  {
+    "name_MS": "Kunyit",
+    "name_EN": "Turmeric",
+    "name": "Curcuma longa",
+    "category": "PRODUCTION",
+    "pgStart": "15",
+    "pgEnd": "16"
+  },
+  {
+    "name_MS": "Magnolia coco",
+    "name_EN": "Champaka Telur",
+    "name": "Magnoliaceae",
+    "category": "PRODUCTION",
+    "pgStart": "18",
+    "pgEnd": "19"
+  },
+  {
+    "name_MS": "Misai Kucing",
+    "name_EN": "Cat's Whiskers",
+    "name": "Orthosiphon aristatus",
+    "category": "PRODUCTION",
+    "pgStart": "21",
+    "pgEnd": "22"
+  },
+  {
+    "name_MS": "Pisang",
+    "name_EN": "Banana",
+    "name": "Musa acuminata",
+    "category": "PRODUCTION",
+    "pgStart": "24",
+    "pgEnd": "25"
+  },
+  {
+    "name_MS": "Pokok Gincu",
+    "name_EN": "Red Button Ginger",
+    "name": "Costus woodsonii",
+    "category": "PRODUCTION",
+    "pgStart": "27",
+    "pgEnd": "28"
+  },
+  {
+    "name_MS": "Serai",
+    "name_EN": "Lemongrass",
+    "name": "Cymbopogon citratus",
+    "category": "PRODUCTION",
+    "pgStart": "30",
+    "pgEnd": "31"
+  },
+  {
+    "name_MS": "Pokok Manila",
+    "name_EN": "Manila palm",
+    "name": "Adonidia merrillii",
+    "category": "PRODUCTION",
+    "pgStart": "33",
+    "pgEnd": "34"
+  },
+  {
+    "name_MS": "Daun Kari",
+    "name_EN": "Curry Leaf",
+    "name": "Murraya koenigii",
+    "category": "AROMATIC",
+    "pgStart": "38",
+    "pgEnd": "39"
+  },
+  {
+    "name_MS": "Daun Kaduk",
+    "name_EN": "Wild Betel Leaf",
+    "name": "Piper sarmentosum",
+    "category": "AROMATIC",
+    "pgStart": "41",
+    "pgEnd": "42"
+  },
+  {
+    "name_MS": "Gelam",
+    "name_EN": "",
+    "name": "Melaleuca cajuputi",
+    "category": "AROMATIC",
+    "pgStart": "44",
+    "pgEnd": "45"
+  },
+  {
+    "name_MS": "Halia Bara",
+    "name_EN": "Red Ginger",
+    "name": "Alpinia purpurata",
+    "category": "AROMATIC",
+    "pgStart": "47",
+    "pgEnd": "48"
+  },
+  {
+    "name_MS": "Halia Cengkerang",
+    "name_EN": "Shell Ginger",
+    "name": "Alpinia zerumbet",
+    "category": "AROMATIC",
+    "pgStart": "50",
+    "pgEnd": "51"
+  },
+  {
+    "name_MS": "Inai",
+    "name_EN": "Henna Tree",
+    "name": "Lawsonia inermis",
+    "category": "AROMATIC",
+    "pgStart": "53",
+    "pgEnd": "54"
+  },
+  {
+    "name_MS": "Limau Kasturi",
+    "name_EN": "Calamansi",
+    "name": "Citrus × microcarpa",
+    "category": "AROMATIC",
+    "pgStart": "56",
+    "pgEnd": "57"
+  },
+  {
+    "name_MS": "Limau Nipis",
+    "name_EN": "Key Lime",
+    "name": "Citrus aurantifolia",
+    "category": "AROMATIC",
+    "pgStart": "59",
+    "pgEnd": "60"
+  },
+  {
+    "name_MS": "Limau Purut",
+    "name_EN": "Kaffir Lime",
+    "name": "Citrus hystrix",
+    "category": "AROMATIC",
+    "pgStart": "62",
+    "pgEnd": "63"
+  },
+  {
+    "name_MS": "",
+    "name_EN": "Oregano",
+    "name": "Origanum vulgare",
+    "category": "AROMATIC",
+    "pgStart": "65",
+    "pgEnd": "66"
+  },
+  {
+    "name_MS": "Paka Merak",
+    "name_EN": "Peacock Clubmoss",
+    "name": "Selaginella moellendorffii",
+    "category": "AROMATIC",
+    "pgStart": "68",
+    "pgEnd": "69"
+  },
+  {
+    "name_MS": "Pandan",
+    "name_EN": "Screwpine",
+    "name": "Pandanus amaryllifolius",
+    "category": "AROMATIC",
+    "pgStart": "71",
+    "pgEnd": "72"
+  },
+  {
+    "name_MS": "Pudina",
+    "name_EN": "Mint",
+    "name": "Mentha spicata",
+    "category": "AROMATIC",
+    "pgStart": "74",
+    "pgEnd": "75"
+  },
+  {
+    "name_MS": "Ulam Raja",
+    "name_EN": "Wild Cosmos",
+    "name": "Cosmos caudatus",
+    "category": "AROMATIC",
+    "pgStart": "77",
+    "pgEnd": "78"
+  },
+  {
+    "name_MS": "Broadleaf Lady Palm",
+    "name_EN": "Broadleaf Lady Palm",
+    "name": "Rhapis excelsa",
+    "category": "ORNAMENTAL",
+    "pgStart": "82",
+    "pgEnd": "83"
+  },
+  {
+    "name_MS": "Bunga Canna / Pokok Shot India",
+    "name_EN": "Canna Lily / Indian Shot",
+    "name": "Canna indica",
+    "category": "ORNAMENTAL",
+    "pgStart": "85",
+    "pgEnd": "86"
+  },
+  {
+    "name_MS": "Pokok Pita",
+    "name_EN": "Ribbon Plant",
+    "name": "Dracaena reflexa",
+    "category": "ORNAMENTAL",
+    "pgStart": "88",
+    "pgEnd": "88"
+  },
+  {
+    "name_MS": "Pokok Kaca Mata",
+    "name_EN": "Shellplant",
+    "name": "Kalanchoe laciniata",
+    "category": "ORNAMENTAL",
+    "pgStart": "90",
+    "pgEnd": "90"
+  },
+  {
+    "name_MS": "Taro Hias",
+    "name_EN": "Ornamental Taro",
+    "name": "Agave angustifolia",
+    "category": "ORNAMENTAL",
+    "pgStart": "92",
+    "pgEnd": "92"
+  },
+  {
+    "name_MS": "Pokok Kertas",
+    "name_EN": "Paper Plant",
+    "name": "Alpinia zerumbet",
+    "category": "ORNAMENTAL",
+    "pgStart": "93",
+    "pgEnd": "93"
+  },
+  {
+    "name_MS": "Pokok Lidah Jin",
+    "name_EN": "Snake Plant",
+    "name": "Sansevieria trifasciata",
+    "category": "ORNAMENTAL",
+    "pgStart": "95",
+    "pgEnd": "95"
+  },
+  {
+    "name_MS": "Pokok Berokok Kreta",
+    "name_EN": "Cretan Brake",
+    "name": "Pteris cretica",
+    "category": "ORNAMENTAL",
+    "pgStart": "97",
+    "pgEnd": "97"
+  },
+  {
+    "name_MS": "Bunga Kincir Angin",
+    "name_EN": "Pinwheelflower",
+    "name": "Tabernaemontana divaricata",
+    "category": "ORNAMENTAL",
+    "pgStart": "99",
+    "pgEnd": "99"
+  },
+  {
+    "name_MS": "Acheyaria Azurea",
+    "name_EN": "Acheyaria Azurea",
+    "name": "Aechmea azurea",
+    "category": "ORNAMENTAL",
+    "pgStart": "101",
+    "pgEnd": "102"
+  },
+  {
+    "name_MS": "Scarlet Jungleflame",
+    "name_EN": "Scarlet Jungleflame",
+    "name": "Ixora coccinea",
+    "category": "ORNAMENTAL",
+    "pgStart": "104",
+    "pgEnd": "105"
+  },
+  {
+    "name_MS": "Artemisia Scoparia",
+    "name_EN": "Artemisia Scoparia",
+    "name": "Artemisia scoparia",
+    "category": "ORNAMENTAL",
+    "pgStart": "107",
+    "pgEnd": "108"
+  },
+  {
+    "name_MS": "Singkong",
+    "name_EN": "Cassava",
+    "name": "Manihot esculenta",
+    "category": "ORNAMENTAL",
+    "pgStart": "110",
+    "pgEnd": "111"
+  },
+  {
+    "name_MS": "Bunga Ungu Cina",
+    "name_EN": "Chinese Violet",
+    "name": "Asystasia gangetica",
+    "category": "ORNAMENTAL",
+    "pgStart": "113",
+    "pgEnd": "114"
+  },
+  {
+    "name_MS": "Pokok Tapak Dara",
+    "name_EN": "Madagascar Periwinkle",
+    "name": "Catharanthus roseus",
+    "category": "ORNAMENTAL",
+    "pgStart": "116",
+    "pgEnd": "117"
+  },
+  {
+    "name_MS": "Pokok Rumbia",
+    "name_EN": "New Zealand Flax",
+    "name": "Phormium tenax",
+    "category": "ORNAMENTAL",
+    "pgStart": "119",
+    "pgEnd": "120"
+  },
+  {
+    "name_MS": "Bunga Kertas",
+    "name_EN": "Paper Flower",
+    "name": "Bougainvillea glabra",
+    "category": "ORNAMENTAL",
+    "pgStart": "122",
+    "pgEnd": "123"
+  },
+  {
+    "name_MS": "Graptophyllum pictum",
+    "name_EN": "Graptophyllum pictum",
+    "name": "Graptophyllum pictum",
+    "category": "ORNAMENTAL",
+    "pgStart": "125",
+    "pgEnd": "126"
+  },
+  {
+    "name_MS": "Bunga Pagoda",
+    "name_EN": "Growing Pagoda Flower",
+    "name": "Clerodendrum paniculatum",
+    "category": "ORNAMENTAL",
+    "pgStart": "128",
+    "pgEnd": "129"
+  },
+  {
+    "name_MS": "Trimezia steyermarkii",
+    "name_EN": "Trimezia steyermarkii",
+    "name": "Trimezia steyermarkii",
+    "category": "ORNAMENTAL",
+    "pgStart": "131",
+    "pgEnd": "132"
+  },
+  {
+    "name_MS": "Pokok Ti",
+    "name_EN": "Ti Plant",
+    "name": "Cordyline fruticosa",
+    "category": "ORNAMENTAL",
+    "pgStart": "134",
+    "pgEnd": "135"
+  },
+  {
+    "name_MS": "Paku Sarang Burung",
+    "name_EN": "Bird's Nest Fern",
+    "name": "Asplenium nidus",
+    "category": "ORNAMENTAL",
+    "pgStart": "137",
+    "pgEnd": "138"
+  },
+  {
+    "name_MS": "Haba Neraka",
+    "name_EN": "Yellow Walking Iris",
+    "name": "Trimezia steyermarkii",
+    "category": "ORNAMENTAL",
+    "pgStart": "140",
+    "pgEnd": "141"
+  },
+  {
+    "name_MS": "Nenas Kerang",
+    "name_EN": "Oyster Plant",
+    "name": "Tradecantia spathacea",
+    "category": "ORNAMENTAL",
+    "pgStart": "143",
+    "pgEnd": "144"
+  },
+  {
+    "name_MS": "Palas",
+    "name_EN": "Mangrove Fan Palm",
+    "name": "Licuala spinosa",
+    "category": "ORNAMENTAL",
+    "pgStart": "146",
+    "pgEnd": "147"
+  },
+  {
+    "name_MS": "Pokok Jenjuang",
+    "name_EN": "Ti Plant",
+    "name": "Cordyline fruticosa",
+    "category": "ORNAMENTAL",
+    "pgStart": "149",
+    "pgEnd": "150"
+  },
+  {
+    "name_MS": "Pokok Paku Pakis",
+    "name_EN": "Boston Fern",
+    "name": "Nephrolepis exaltata",
+    "category": "ORNAMENTAL",
+    "pgStart": "152",
+    "pgEnd": "153"
+  },
+  {
+    "name_MS": "Pokok Wuruk",
+    "name_EN": "Lady Palm",
+    "name": "Rhapis excelsa",
+    "category": "ORNAMENTAL",
+    "pgStart": "155",
+    "pgEnd": "156"
+  },
+  {
+    "name_MS": "Bunga Telang",
+    "name_EN": "Butterfly Pea",
+    "name": "Clitoria ternatea",
+    "category": "ORNAMENTAL",
+    "pgStart": "158",
+    "pgEnd": "158"
+  },
+  {
+    "name_MS": "Pokok Ketapang",
+    "name_EN": "Garden Croton",
+    "name": "Codiaeum variegatum",
+    "category": "ORNAMENTAL",
+    "pgStart": "160",
+    "pgEnd": "161"
+  },
+  {
+    "name_MS": "Pokok Iris Kuning",
+    "name_EN": "Yellow Flag Iris",
+    "name": "Iris pseudacorus",
+    "category": "ORNAMENTAL",
+    "pgStart": "163",
+    "pgEnd": "163"
+  },
+  {
+    "name_MS": "Tah",
+    "name_EN": "Tah",
+    "name": "Tectona grandis (Teak)",
+    "category": "ORNAMENTAL",
+    "pgStart": "165",
+    "pgEnd": "166"
+  }
+]
+
