@@ -62,7 +62,7 @@ const App: React.FC<AppProps> = () => {
   const [pageNumber, setPageNumber] = useState(1);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [plant, setPlant] = useState<Plant | null>(null);
+  const [_, setPlant] = useState<Plant | null>(null);
   const [minPage, setMinPage] = useState(1);
   const [maxPage, setMaxPage] = useState(Infinity);
   const isMobile = useIsMobile();
@@ -86,8 +86,7 @@ const App: React.FC<AppProps> = () => {
         setPageNumber(pgStart);
 
         // Set document title
-        const title = getPlantTitle(selectedPlant);
-        document.title = title;
+        document.title = getPlantTitle(selectedPlant);
       } else {
         setError('Invalid plant index');
       }
